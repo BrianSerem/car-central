@@ -31,10 +31,10 @@ const Hero = () => {
             alt='Hero Car image'
             fill className='object-contain'
           />
-          </div>
-          <div className="hero__image-overlay"/>
         </div>
+        <div className="hero__image-overlay" />
       </div>
+    </div>
   )
 }
 
