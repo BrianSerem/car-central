@@ -26,7 +26,7 @@ export const manufacturers = [
     "Lexus",
     "Lincoln",
     "Maserati",
-    "Mazda",
+    "Mazdaa",
     "McLaren",
     "Mercedes-Benz",
     "MINI",
